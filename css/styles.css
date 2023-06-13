@@ -2,3 +2,14 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
+.contacts a {
+  color: #2e2f42;
+}
+.contacts a:hover {
+  font-size: 16px;
+  color: #434455;
+}
+.filter .filter-link:hover {
+  color: #434455;
+  font-size: 16px;
+}
